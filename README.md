@@ -1,5 +1,6 @@
-Welcome to [wli12.github.com](http://wli12.github.com/)!
+Welcome to [http://xinxin-liu.github.io/](http://xinxin-liu.github.io/)!
 
+<!--
 少见的乐天派程序媛，喜欢古典文学和科幻电影，爱音乐爱写作爱折腾，非典型90后，典型狮子座<(=⌒_⌒=)>
 
 ##Interest
@@ -25,3 +26,4 @@ Software Engineering Intern, Geo Imagery Group
 [Twitter](https://twitter.com/Silviaazaaza)
 [Linkedin](https://www.linkedin.com/profile/view?id=291965977)
 <img src="/images/wei-gmail.gif" align=right>
+-->
