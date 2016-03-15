@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Wei Li
-url: http://wli12.github.io/
+title: Xinxin Liu
+url: http://xinxin-liu.github.io/
 feed: /atom.xml
-author_info: <a href="http://wli12.github.io/">Wei Li</a>
+author_info: <a href="http://xinxin-liu.github.io/">Xinxin Liu</a>
